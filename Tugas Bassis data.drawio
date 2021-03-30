@@ -1,1 +1,148 @@
-<mxfile host="app.diagrams.net" modified="2021-03-30T15:31:16.122Z" agent="5.0 (X11)" version="13.9.2" etag="G29yVIZFVvW7WtjPeB6o" type="github"><diagram id="J-GzeOjwE6s1S8E7Yjq6">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-30T16:33:11.232Z" agent="5.0 (X11)" etag="5v59G8pCL2zC75Cht_95" version="13.9.2" type="github">
+  <diagram id="J-GzeOjwE6s1S8E7Yjq6" name="Page-1">
+    <mxGraphModel dx="1117" dy="749" grid="1" gridSize="7" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="clS-MIO6Z_xPgHVX3ysG-19" value="Kepala Sekolah" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="clS-MIO6Z_xPgHVX3ysG-20" value="Guru" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="clS-MIO6Z_xPgHVX3ysG-21" value="Wakil Kepala Sekolah" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="clS-MIO6Z_xPgHVX3ysG-23" value="Bendahara" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="clS-MIO6Z_xPgHVX3ysG-26" value="Mengajar" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="340" width="154" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="clS-MIO6Z_xPgHVX3ysG-29" value="Wali Kelas" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="441" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="clS-MIO6Z_xPgHVX3ysG-33" value="Kelas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="847" y="374" width="120" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="clS-MIO6Z_xPgHVX3ysG-34" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="clS-MIO6Z_xPgHVX3ysG-20" target="clS-MIO6Z_xPgHVX3ysG-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="553" y="554" as="sourcePoint" />
+            <mxPoint x="603" y="504" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="clS-MIO6Z_xPgHVX3ysG-35" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="clS-MIO6Z_xPgHVX3ysG-19" target="clS-MIO6Z_xPgHVX3ysG-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="553" y="554" as="sourcePoint" />
+            <mxPoint x="603" y="504" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="clS-MIO6Z_xPgHVX3ysG-36" value="" style="endArrow=none;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="clS-MIO6Z_xPgHVX3ysG-20" target="clS-MIO6Z_xPgHVX3ysG-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="553" y="554" as="sourcePoint" />
+            <mxPoint x="603" y="504" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="clS-MIO6Z_xPgHVX3ysG-37" value="" style="endArrow=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="clS-MIO6Z_xPgHVX3ysG-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="553" y="554" as="sourcePoint" />
+            <mxPoint x="406" y="434" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="clS-MIO6Z_xPgHVX3ysG-38" value="" style="endArrow=none;html=1;exitX=0.96;exitY=0.727;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="clS-MIO6Z_xPgHVX3ysG-21" target="clS-MIO6Z_xPgHVX3ysG-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="553" y="554" as="sourcePoint" />
+            <mxPoint x="603" y="504" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="clS-MIO6Z_xPgHVX3ysG-40" value="Berhitung" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="812" y="588" width="98" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="clS-MIO6Z_xPgHVX3ysG-41" value="Wali kelas" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="182" width="161" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="clS-MIO6Z_xPgHVX3ysG-44" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="clS-MIO6Z_xPgHVX3ysG-20" target="clS-MIO6Z_xPgHVX3ysG-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="553" y="491" as="sourcePoint" />
+            <mxPoint x="603" y="441" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="clS-MIO6Z_xPgHVX3ysG-45" value="Bernyanyi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1043" y="449.5" width="105" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="clS-MIO6Z_xPgHVX3ysG-46" value="Menggambar" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="918" y="574" width="84" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="clS-MIO6Z_xPgHVX3ysG-47" value="Membaca" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1008" y="546" width="112" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="clS-MIO6Z_xPgHVX3ysG-48" value="Olahraga" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1043" y="336" width="98" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="clS-MIO6Z_xPgHVX3ysG-49" value="" style="endArrow=none;html=1;exitX=0.163;exitY=1.003;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="clS-MIO6Z_xPgHVX3ysG-33" target="clS-MIO6Z_xPgHVX3ysG-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="553" y="470" as="sourcePoint" />
+            <mxPoint x="693" y="455" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="clS-MIO6Z_xPgHVX3ysG-50" value="" style="endArrow=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="clS-MIO6Z_xPgHVX3ysG-33" target="clS-MIO6Z_xPgHVX3ysG-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="553" y="470" as="sourcePoint" />
+            <mxPoint x="603" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="clS-MIO6Z_xPgHVX3ysG-51" value="" style="endArrow=none;html=1;entryX=0.397;entryY=0.015;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="clS-MIO6Z_xPgHVX3ysG-33" target="clS-MIO6Z_xPgHVX3ysG-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="553" y="470" as="sourcePoint" />
+            <mxPoint x="603" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="clS-MIO6Z_xPgHVX3ysG-52" value="" style="endArrow=none;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="clS-MIO6Z_xPgHVX3ysG-33" target="clS-MIO6Z_xPgHVX3ysG-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="553" y="470" as="sourcePoint" />
+            <mxPoint x="603" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="clS-MIO6Z_xPgHVX3ysG-53" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="clS-MIO6Z_xPgHVX3ysG-33" target="clS-MIO6Z_xPgHVX3ysG-48">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="553" y="470" as="sourcePoint" />
+            <mxPoint x="603" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="clS-MIO6Z_xPgHVX3ysG-54" value="" style="endArrow=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="clS-MIO6Z_xPgHVX3ysG-33" target="clS-MIO6Z_xPgHVX3ysG-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="553" y="470" as="sourcePoint" />
+            <mxPoint x="603" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="clS-MIO6Z_xPgHVX3ysG-55" value="Siswa" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="192" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="clS-MIO6Z_xPgHVX3ysG-56" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="clS-MIO6Z_xPgHVX3ysG-41" target="clS-MIO6Z_xPgHVX3ysG-55">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="553" y="470" as="sourcePoint" />
+            <mxPoint x="603" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="clS-MIO6Z_xPgHVX3ysG-57" value="Jumlah siswa" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="889" y="203" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="clS-MIO6Z_xPgHVX3ysG-58" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="clS-MIO6Z_xPgHVX3ysG-55" target="clS-MIO6Z_xPgHVX3ysG-57">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="553" y="470" as="sourcePoint" />
+            <mxPoint x="603" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="clS-MIO6Z_xPgHVX3ysG-59" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="clS-MIO6Z_xPgHVX3ysG-57">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="910" y="371" as="sourcePoint" />
+            <mxPoint x="603" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="clS-MIO6Z_xPgHVX3ysG-60" value="DATABASE TK SEMOGA PINTER" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeWidth=1;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="553" y="70" width="287" height="35" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
